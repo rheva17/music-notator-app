@@ -40,20 +40,20 @@
 
 *(Add screenshots to `/public/docs/` and link them here to showcase your beautiful app!)*
 
-### 1. Main Composition Studio
-> The central hub where creativity happens. Features a split-view design with a comprehensive editor panel on the right and the notation workspace on the left.
+### 1. Main Composer Workspace
+> The central hub where creativity happens. Features a powerful Editor Panel for duration control, Track manager, and full Export options.
 > 
-> `<img src="https://raw.githubusercontent.com/rheva17/music-notator-app/master/public/docs/main-interface.png" width="100%" alt="Main Interface" />`
+> `<img src="https://raw.githubusercontent.com/rheva17/music-notator-app/master/public/docs/editor-panel.png" width="100%" alt="Composer Workspace and Editor" />`
 
-### 2. Dual Notation: Standard & Numbered
-> Seamlessly switch or view both Western standard notation (using VexFlow) and Asian Numbered Musical Notation (Not Angka).
+### 2. Standard Western Notation (VexFlow)
+> Professional quality, scalable vector rendering of standard musical staves including multi-stave Piano and automatic barlines.
 > 
-> `<img src="https://raw.githubusercontent.com/rheva17/music-notator-app/master/public/docs/dual-notation.png" width="100%" alt="Dual Notation Details" />`
+> `<img src="https://raw.githubusercontent.com/rheva17/music-notator-app/master/public/docs/standard-notation.png" width="80%" alt="Standard Notation Rendering" />`
 
-### 3. Interactive Virtual Piano
-> An elegantly designed on-screen piano that maps perfectly to your computer keyboard for rapid musical transcription.
+### 3. Numbered Notation & Virtual Piano
+> Seamlessly switch to Asian Numbered Musical Notation (Not Angka), elegantly displayed above an interactive, responsive Virtual Piano.
 > 
-> `<img src="https://raw.githubusercontent.com/rheva17/music-notator-app/master/public/docs/virtual-piano.png" width="80%" alt="Virtual Piano" />`
+> `<img src="https://raw.githubusercontent.com/rheva17/music-notator-app/master/public/docs/numbered-piano.png" width="100%" alt="Numbered Notation and Virtual Piano" />`
 
 <br />
 
